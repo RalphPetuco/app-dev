@@ -1,3 +1,3 @@
 # app-dev
 My first repository
-My favorite movie is Fast and Furious
+**My favorite movie is American Pie**
